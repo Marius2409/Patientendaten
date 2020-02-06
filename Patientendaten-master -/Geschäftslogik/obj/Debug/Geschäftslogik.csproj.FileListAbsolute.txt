@@ -1,0 +1,14 @@
+C:\Users\de006304\source\repos\C#\Patientendaten-master\Geschäftslogik\bin\Debug\Geschäftslogik.exe.config
+C:\Users\de006304\source\repos\C#\Patientendaten-master\Geschäftslogik\bin\Debug\Geschäftslogik.exe
+C:\Users\de006304\source\repos\C#\Patientendaten-master\Geschäftslogik\bin\Debug\Geschäftslogik.pdb
+C:\Users\de006304\source\repos\C#\Patientendaten-master\Geschäftslogik\obj\Debug\Geschäftslogik.csprojAssemblyReference.cache
+C:\Users\de006304\source\repos\C#\Patientendaten-master\Geschäftslogik\obj\Debug\Geschäftslogik.csproj.CoreCompileInputs.cache
+C:\Users\de006304\source\repos\C#\Patientendaten-master\Geschäftslogik\obj\Debug\Geschäftslogik.exe
+C:\Users\de006304\source\repos\C#\Patientendaten-master\Geschäftslogik\obj\Debug\Geschäftslogik.pdb
+C:\Users\de006304\source\repos\C#\Patientendaten-master -\Geschäftslogik\bin\Debug\Geschäftslogik.exe.config
+C:\Users\de006304\source\repos\C#\Patientendaten-master -\Geschäftslogik\bin\Debug\Geschäftslogik.exe
+C:\Users\de006304\source\repos\C#\Patientendaten-master -\Geschäftslogik\bin\Debug\Geschäftslogik.pdb
+C:\Users\de006304\source\repos\C#\Patientendaten-master -\Geschäftslogik\obj\Debug\Geschäftslogik.csprojAssemblyReference.cache
+C:\Users\de006304\source\repos\C#\Patientendaten-master -\Geschäftslogik\obj\Debug\Geschäftslogik.csproj.CoreCompileInputs.cache
+C:\Users\de006304\source\repos\C#\Patientendaten-master -\Geschäftslogik\obj\Debug\Geschäftslogik.exe
+C:\Users\de006304\source\repos\C#\Patientendaten-master -\Geschäftslogik\obj\Debug\Geschäftslogik.pdb

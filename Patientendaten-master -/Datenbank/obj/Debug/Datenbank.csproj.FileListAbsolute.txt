@@ -1,0 +1,9 @@
+C:\Users\de006304\source\repos\C#\Patientendaten-master -\Datenbank\bin\Debug\Database1.mdf
+C:\Users\de006304\source\repos\C#\Patientendaten-master -\Datenbank\bin\Debug\Database1_log.ldf
+C:\Users\de006304\source\repos\C#\Patientendaten-master -\Datenbank\bin\Debug\Datenbank.exe.config
+C:\Users\de006304\source\repos\C#\Patientendaten-master -\Datenbank\bin\Debug\Datenbank.exe
+C:\Users\de006304\source\repos\C#\Patientendaten-master -\Datenbank\bin\Debug\Datenbank.pdb
+C:\Users\de006304\source\repos\C#\Patientendaten-master -\Datenbank\obj\Debug\Datenbank.csprojAssemblyReference.cache
+C:\Users\de006304\source\repos\C#\Patientendaten-master -\Datenbank\obj\Debug\Datenbank.csproj.CoreCompileInputs.cache
+C:\Users\de006304\source\repos\C#\Patientendaten-master -\Datenbank\obj\Debug\Datenbank.exe
+C:\Users\de006304\source\repos\C#\Patientendaten-master -\Datenbank\obj\Debug\Datenbank.pdb
